@@ -1,0 +1,57 @@
+<opml version="1.0">
+  <head>
+    <title>导出 Thunderbird OPML</title>
+    <dateCreated>Mon, 28 Feb 2011 05:46:06 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="归档">
+    </outline>
+    <outline title="ATTILAX" text="ATTILAX" type="rss" version="RSS" xmlUrl="http://feeds.qzone.qq.com/cgi-bin/cgi_rss_out?uin=1466519819" htmlUrl="http://1466519819.qzone.qq.com"/>
+    <outline title="msn news" text="msn news" type="rss" version="RSS" xmlUrl="http://www.msn.com/rss/news.aspx" htmlUrl=""/>
+    <outline title="mustsee.aspx" text="mustsee.aspx" type="rss" version="RSS" xmlUrl="http://www.msn.com/rss/mustsee.aspx" htmlUrl=""/>
+    <outline title="redsee的专栏" text="redsee的专栏" type="rss" version="RSS" xmlUrl="http://feeds.feedsky.com/csdn.net/redsee" htmlUrl="http://blog.csdn.net/redsee/"/>
+    <outline title="Skyward" text="Skyward" type="rss" version="RSS" xmlUrl="http://feeds.qzone.qq.com/cgi-bin/cgi_rss_out?uin=402472690%" htmlUrl="http://402472690.qzone.qq.com"/>
+    <outline title="sports.aspx" text="sports.aspx" type="rss" version="RSS" xmlUrl="http://www.msn.com/rss/sports.aspx" htmlUrl=""/>
+    <outline title="《程序员》杂志官网" text="《程序员》杂志官网" type="rss" version="RSS" xmlUrl="http://feed.feedsky.com/programmer" htmlUrl="http://www.programmer.com.cn"/>
+    <outline title="一杯白开水" text="一杯白开水" type="rss" version="RSS" xmlUrl="http://feeds.qzone.qq.com/cgi-bin/cgi_rss_out?uin=286864293" htmlUrl="http://286864293.qzone.qq.com"/>
+    <outline title="业界" text="业界" type="rss" version="RSS" xmlUrl="http://articles.csdn.net/api/rss.php?tid=1008" htmlUrl="http://news.csdn.net/yejie/"/>
+    <outline title="偷情" text="偷情" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%CD%B5%C7%E9&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="出轨" text="出轨" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%B3%F6%B9%EC&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="地方站-广东" text="地方站-广东" type="rss" version="RSS" xmlUrl="http://news.qq.com/gd/rss_gd.xml" htmlUrl="http://news.qq.com/gd/index.htm"/>
+    <outline title="外遇" text="外遇" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%CD%E2%D3%F6&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="失身" text="失身" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%CA%A7%C9%ED&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="情感" text="情感" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%C7%E9%B8%D0&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="情感心绪" text="情感心绪" type="rss" version="RSS" xmlUrl="http://lady.qq.com/emo/rss_emo.xml" htmlUrl="http://lady.qq.com/emo/emotio.shtml"/>
+    <outline title="招摇撞骗" text="招摇撞骗" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%D5%D0%D2%A1%D7%B2%C6%AD&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="流行风尚" text="流行风尚" type="rss" version="RSS" xmlUrl="http://lady.qq.com/vogue/rss_vogue.xml" htmlUrl="http://lady.qq.com/vogue/vogue.shtml"/>
+    <outline title="浪漫" text="浪漫" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%C0%CB%C2%FE&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度_title:泡妞" text="百度_title:泡妞" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3Atitle%3A%C5%DD%E6%A4&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_90后" text="百度新闻全文搜索_90后" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=90%BA%F3&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_保持年轻" text="百度新闻全文搜索_保持年轻" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%B1%A3%B3%D6%C4%EA%C7%E1&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_健身" text="百度新闻全文搜索_健身" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%BD%A1%C9%ED&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_富人思维" text="百度新闻全文搜索_富人思维" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%22%B8%BB%C8%CB%CB%BC%CE%AC%22&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_富人穷人思维" text="百度新闻全文搜索_富人穷人思维" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%B8%BB%C8%CB%C7%EE%C8%CB%CB%BC%CE%AC&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_爱情" text="百度新闻全文搜索_爱情" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%B0%AE%C7%E9&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_真爱" text="百度新闻全文搜索_真爱" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%D5%E6%B0%AE&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_穷人思维" text="百度新闻全文搜索_穷人思维" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%22%C7%EE%C8%CB%CB%BC%CE%AC%22&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_管理" text="百度新闻全文搜索_管理" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%B9%DC%C0%ED&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_网友" text="百度新闻全文搜索_网友" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%CD%F8%D3%D1&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_良好生活习惯" text="百度新闻全文搜索_良好生活习惯" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%C1%BC%BA%C3%C9%FA%BB%EE%CF%B0%B9%DF&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_财商" text="百度新闻全文搜索_财商" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%B2%C6%C9%CC&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="百度新闻全文搜索_运动" text="百度新闻全文搜索_运动" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=%D4%CB%B6%AF&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="创业" text="创业" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%B4%B4%D2%B5&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="富人心态" text="富人心态" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%B8%BB%C8%CB%D0%C4%CC%AC&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="穷人心态" text="穷人心态" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%C7%EE%C8%CB%D0%C4%CC%AC&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="网友" text="网友" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%CD%F8%D3%D1&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="网友 骗" text="网友 骗" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%CD%F8%D3%D1+%C6%AD&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="调情" text="调情" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%B5%F7%C7%E9&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="骗子" text="骗子" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%C6%AD%D7%D3&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="骗网友" text="骗网友" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%C6%AD%CD%F8%D3%D1+&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="骗色" text="骗色" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%C6%AD%C9%AB&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="骗财" text="骗财" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%C6%AD%B2%C6&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="骗财骗色" text="骗财骗色" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%C6%AD%B2%C6%C6%AD%C9%AB&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="玩弄感情" text="玩弄感情" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%CD%E6%C5%AA%B8%D0%C7%E9&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="感情骗子" text="感情骗子" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%B8%D0%C7%E9%C6%AD%D7%D3&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+    <outline title="情感骗子" text="情感骗子" type="rss" version="RSS" xmlUrl="http://news.baidu.com/ns?word=title%3A%C7%E9%B8%D0%C6%AD%D7%D3&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0" htmlUrl="http://news.baidu.com"/>
+  </body>
+</opml>
